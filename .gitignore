@@ -1,0 +1,29 @@
+# Arquivos de sistema e do ambiente
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+.DS_Store
+
+# Ambientes virtuais
+venv/
+env/
+*.env
+
+# Dependências instaladas
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Configurações específicas do sistema operacional
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.swp
+*.swo
+*.tmp
